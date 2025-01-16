@@ -9,8 +9,8 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/*.ipynb
 
 # VS Code and other IDEs
-**/.virtual_documents/
+**/.virtual_documents/*.ipynb
 **/.vscode/
