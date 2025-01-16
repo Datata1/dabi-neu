@@ -6,3 +6,11 @@ DABI1.db
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
+# VS Code and other IDEs
+**/.virtual_documents/
+**/.vscode/
