@@ -1,6 +1,8 @@
 Daten/*.csv
 Daten/*.zip
 DABI1.db
+src/PowerBI/PowerBI_fertig.pbix
+dabi1.zip
 
 # Python cache files
 __pycache__/
